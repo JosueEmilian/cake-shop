@@ -4,7 +4,7 @@ Technical test
 
 ### Configuración del Frontend (Vue.js)
 
-1. Navega al directorio del frontend: `cd frontend`.
+1. Navega al directorio del frontend: `cd frontend-project`.
 2. Instala las dependencias: `npm install`.
 3. Inicia el servidor de desarrollo: `npm run serve`.
 
